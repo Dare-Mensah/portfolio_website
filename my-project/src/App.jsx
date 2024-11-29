@@ -1,6 +1,6 @@
 import React from 'react'
-import Navbar from './screen/Navbar'
-import Main from './screen/Main'
+import Navbar from './Navbar'
+import Main from './MainPage'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 //import 'bootstrap/dist/css/bootstrap.css';
 
@@ -10,9 +10,7 @@ const App = () => {
     <Router>
       <div className='overflow-x-hidden'>
         <Navbar />
-        <Routes>
-          <Route path="/" element={<Main />} />
-        </Routes>
+        <Main/>
       </div>
     </Router>
   );

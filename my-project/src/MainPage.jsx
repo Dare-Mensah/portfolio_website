@@ -4,18 +4,18 @@ import React from 'react'
 //import "slick-carousel/slick/slick.css";
 //import "slick-carousel/slick/slick-theme.css";
 
-import Heroimg from "../assets/Profilepic.jpg"
-import linkinimg from "../assets/linkedinlogo.png"
-import githubimg from "../assets/github.jpg"
-import GTLogo from '../assets/GTLogo.jpeg'
-import amazonLogo from '../assets/Amazon-Logo-07.jpg'
-import microsoftLogo from '../assets/microsoftLogo.png'
+import Heroimg from "./assets/Profilepic.jpg"
+import linkinimg from "./assets/linkedinlogo.png"
+import githubimg from "./assets/github.jpg"
+import GTLogo from './assets/GTLogo.jpeg'
+import amazonLogo from './assets/Amazon-Logo-07.jpg'
+import microsoftLogo from './assets/microsoftLogo.png'
 
-import QueenMaryUniversityLogo from '../assets/Queen-Mary-UniversityLogo.png'
-import ClimateSenseHomepagePhoneOne from '../assets/ClimateSenseHomepagePhoneOne.jpg'
+import QueenMaryUniversityLogo from './assets/Queen-Mary-UniversityLogo.png'
+import ClimateSenseHomepagePhoneOne from './assets/ClimateSenseHomepagePhoneOne.jpg'
 //import ClimateSenseHomepageTablet from '../../assets/ClimateSenseHomepageTablet.jpg'
 //import ClimateSenseLoginScreen from '../../assets/ClimateSenseLoginScreen.jpg'
-import FDMWellbeingHomepageOne from'../assets/FDMWellbeingHomepageOne.jpg'
+import FDMWellbeingHomepageOne from'./assets/FDMWellbeingHomepageOne.jpg'
 //import FDMWellbeingHomepageTwo from'../../assets/FDMWellbeingHomepageTwo.jpg'
 
 import { Carousel } from 'react-responsive-carousel'
